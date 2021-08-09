@@ -1,0 +1,19 @@
+{
+    "name": "World Mandala",
+    "description": "The world mandala is a collection of aspects which are relevant to the local and global scale (as developed by the H3 Univerisity). All of these aspects are interconnected, as each one affects another.",
+    "holons" : 
+    [
+      { "id": "0x", "label": "Wellbeing", "value":"8" },
+      { "id": "0x", "label": "Food", "value":"8" },
+      { "id": "0x", "label": "Trade", "value":"8" },
+      { "id": "0x", "label": "Energy", "value":"8" },
+      { "id": "0x", "label": "Climate", "value":"8" },
+      { "id": "0x", "label": "Biosphere", "value":"8" },
+      { "id": "0x", "label": "Water", "value":"8" },
+      { "id": "0x", "label": "Habitat", "value":"8" },
+      { "id": "0x", "label": "Wealth", "value":"8" },
+      { "id": "0x", "label": "Governance", "value":"8" },
+      { "id": "0x", "label": "Community", "value":"8" },
+      { "id": "0x", "label": "Worldview", "value":"8" },
+    ]
+}
