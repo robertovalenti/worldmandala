@@ -3,17 +3,18 @@
     "description": "The world mandala is a collection of aspects which are relevant to the local and global scale (as developed by the H3 Univerisity). All of these aspects are interconnected, as each one affects another.",
     "holons" : 
     [
-      { "id": "0x", "label": "Wellbeing", "value":"8" },
-      { "id": "0x", "label": "Food", "value":"8" },
-      { "id": "0x", "label": "Trade", "value":"8" },
-      { "id": "0x", "label": "Energy", "value":"8" },
-      { "id": "0x", "label": "Climate", "value":"8" },
-      { "id": "0x", "label": "Biosphere", "value":"8" },
-      { "id": "0x", "label": "Water", "value":"8" },
-      { "id": "0x", "label": "Habitat", "value":"8" },
-      { "id": "0x", "label": "Wealth", "value":"8" },
-      { "id": "0x", "label": "Governance", "value":"8" },
-      { "id": "0x", "label": "Community", "value":"8" },
-      { "id": "0x", "label": "Worldview", "value":"8" }
+      { "id": "0x99b490a321161Eb93D289F4a2D00860BC67C39DB", "label": "Wellbeing", "value":"10" },
+      { "id": "0x8f849eA8191A2D5eF906e8172DDbd6C6D5330EF3", "label": "Food", "value":"8" },
+      { "id": "0x352e197fE7F9e44a8f2352097528a9548409898A", "label": "Trade", "value":"5" },
+      { "id": "0x5430070627cA66Dc2ffE28718047D5AAA239b2C8", "label": "Energy", "value":"8" },
+      { "id": "0xE5a201Dc13c91bEe54Aa464926DE5CbbE6652dB3", "label": "Climate", "value":"12" },
+      { "id": "0x34320c2f8f5a8e34Fc67f30924Ad757f3bEFB965", "label": "Biosphere", "value":"8" },
+      { "id": "0xFAbab0519ad1e4267790edb4d923889CE6d63f2b", "label": "Water", "value":"8" },
+      { "id": "0x0CacE3e488D217747Eaa468bdA28cc0dfFbDf9Fa", "label": "Habitat", "value":"13" },
+      { "id": "0xbB79960FdBe1987c9D7981d81ee4d4F802c69276", "label": "Wealth", "value":"5" },
+      { "id": "0x1", "label": "Governance", "value":"6" },
+      { "id": "0x2", "label": "Community", "value":"9" },
+      { "id": "0x3", "label": "Worldview", "value":"8" }
     ]
 }
+
