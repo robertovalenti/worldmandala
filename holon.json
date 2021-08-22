@@ -12,9 +12,8 @@
       { "id": "0xFAbab0519ad1e4267790edb4d923889CE6d63f2b", "label": "Water", "value":"8" },
       { "id": "0x0CacE3e488D217747Eaa468bdA28cc0dfFbDf9Fa", "label": "Habitat", "value":"13" },
       { "id": "0xbB79960FdBe1987c9D7981d81ee4d4F802c69276", "label": "Wealth", "value":"5" },
-      { "id": "0x1", "label": "Governance", "value":"6" },
-      { "id": "0x2", "label": "Community", "value":"9" },
-      { "id": "0x3", "label": "Worldview", "value":"8" }
+      { "id": "0xf330dA4f56B7430f46C774B988C3cc3f3C3Bb517", "label": "Governance", "value":"6" },
+      { "id": "0xE1671826D37451bD65F465611fa5498C48692f90", "label": "Community", "value":"9" },
+      { "id": "0x12FbBB47F393642b3d7632370e1bB1ba57E326Df", "label": "Worldview", "value":"8" }
     ]
 }
-
